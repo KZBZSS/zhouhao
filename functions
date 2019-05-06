@@ -3,7 +3,9 @@
  */
 
 // variables
-var $win = $(window);
+var $win = $(window);[InternetShortcut]
+URL=https://github.com/KZBZSS/zhouhao/blob/master/functions.js
+
 var clientWidth = $win.width();
 var clientHeight = $win.height();
 
